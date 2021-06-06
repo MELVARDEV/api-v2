@@ -17,6 +17,8 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+db.sqlite
+
 # nyc test coverage
 .nyc_output
 
